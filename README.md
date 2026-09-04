@@ -11,10 +11,10 @@ abdelrahman ibrahim rashad
 
 ## Team Members
 
-Mohamed Khalid Radown
-Abdalah Nabil Khafaga
-Manar Ahmed Khairy
-Maria Adel Isaac
+*Mohamed Khalid Radown
+*Abdalah Nabil Khafaga
+*Manar Ahmed Khairy
+*Maria Adel Isaac
 
 ## Project Overview
 
