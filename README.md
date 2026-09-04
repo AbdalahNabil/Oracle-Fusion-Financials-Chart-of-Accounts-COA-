@@ -103,4 +103,4 @@ All Chart of Accounts configuration steps, practical exercises, Excel templates,
 
 ## Team Collaboration
 
-This repository is maintained by Oracle Fusion GL Team – Group 1 as a collaborative learning and implementation project.
+This repository is maintained by Oracle Fusion COA Team – Group 5 as a collaborative learning and implementation project.
