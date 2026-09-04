@@ -1,5 +1,18 @@
 # Oracle Fusion Financials – Chart of Accounts (COA)
 
+# Team
+Team Name: Oracle Fusion COA 
+Team Group Number: 5
+
+#Project Leader
+abdelrahman ibrahim rashad
+
+#Team Members
+Mohamed Khalid Radown
+Abdalah Nabil Khafaga
+Manar Ahmed Khairy
+Maria Adel Isaac
+
 ## Project Overview
 
 This repository contains the practical implementation, configuration, documentation, and learning materials for **Chart of Accounts (COA) in Oracle Fusion Cloud Financials**.
@@ -88,8 +101,6 @@ Each segment represents a specific accounting dimension and allows financial inf
 
 All Chart of Accounts configuration steps, practical exercises, Excel templates, screenshots, and project documentation will be organized within this repository.
 
-## Project Contributor
+## Team Collaboration
 
-**Name:** [Your Name]
-**Project:** Oracle Fusion Financials – Chart of Accounts
-**Status:** In Progress
+This repository is maintained by Oracle Fusion GL Team – Group 1 as a collaborative learning and implementation project.
