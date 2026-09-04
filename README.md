@@ -1,13 +1,16 @@
 # Oracle Fusion Financials – Chart of Accounts (COA)
 
 ## Team
+
 Team Name: Oracle Fusion COA 
 Team Group Number: 5
 
-##Project Leader
+## Project Leader
+
 abdelrahman ibrahim rashad
 
-#Team Members
+## Team Members
+
 Mohamed Khalid Radown
 Abdalah Nabil Khafaga
 Manar Ahmed Khairy
