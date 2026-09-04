@@ -2,8 +2,8 @@
 
 ## Team
 
-Team Name: Oracle Fusion COA 
-Team Group Number: 5
+* Team Name: Oracle Fusion COA 
+* Team Group Number: 5
 
 ## Project Leader
 
